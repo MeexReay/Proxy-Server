@@ -6,3 +6,7 @@ Minecraft mod that allows you to connect to servers through a proxy
 ```
 gradle clean build
 ```
+
+## What's new?
+
+Button is now on left! Awesome improvement!!1
